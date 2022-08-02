@@ -1,2 +1,10 @@
-# SCAR_2022
-Talk for SCAR 2022 Online
+# SCAR_2022_Online
+## Antarctic lithosphere density heterogeneity provides new insights for solid-earth and cryosphere interactions
+
+Lu Li<sup>1</sup>, Alan Aitken<sup>1</sup>, Lutz Gross<sup>2</sup>, Andrea Codd<sup>2</sup>
+
+1. School of Earth Sciences, The University of Western Australia, Perth, Western Australia, Australia
+
+2. School of Earth and Environmental Sciences, The University of Queensland, Brisbane, Queensland, Australia
+
+Knowledge of crust and mantle structure is essential for understanding subglacial geology, tectonic history and solid-earth influence on ice sheet stability in Antarctica. For instance, mantle temperature, crust thickness, and heat productionare important for geothermal heat flow, which influences ice dynamics. However, 3D earth heterogeneity structure and physical properties are poorly resolved in Antarctica. Here, we use two types of 3D gravity inversion focusing on the Antarctic crust and mantle density structure. For the crust model, we use layered-earth gravity inversion constrained by seismic Moho depth to estimate crustal density, crust thickness and sedimentary basin thickness. For the mantle model, we constrain our 3D finite element inversion (Esys-escript) by seismic tomography model to resolve mantle density, from which we estimate temperature and composition. Results show East Antarctica is characterised by dense, thick and cold lithosphere in contrast with thin and hot lithosphere in West Antarctica. Our result highlights heterogeneity within EastAntarctica with a highly depleted cratonic mantle in central East Antarctica. Along the coast region in Dronning MaudLand, Lambert rift and Wilkes Land, lithosphere is thinner and warmer with localised higher crust heat production. Our model also shows thicker sedimentary basins beneath Wilkes, Aurora, Recovery and Pensacola Subglacial Basins. These crust and mantle heterogeneities provide insight into basal boundary conditions including subglacial geology, subglacial hydrology and geothermal heat flow. These factors are essential to understanding the ice sheet flow and stability.
